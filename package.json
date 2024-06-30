@@ -1,0 +1,20 @@
+{
+  "name": "task-pets",
+  "version": "1.0.0",
+  "description": "Orbital Project Team 6420 LuminaQuest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expo": "^51.0.9",
+    "expo-router": "^3.5.14",
+    "react-native": "^0.74.1"
+  },
+  "devDependencies": {
+    "metro": "^0.80.9"
+  }
+}
